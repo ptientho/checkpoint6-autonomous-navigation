@@ -1,0 +1,1 @@
+# checkpoint6-autonomous-navigation
