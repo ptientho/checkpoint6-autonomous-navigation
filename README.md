@@ -15,6 +15,7 @@
 ros2 launch map_server map_server.launch.py map_file:=warehouse_map_sim.yaml
 
 
+<img alt="simulation map" src=""/>
 ## Localization
 
 ## Navigation
