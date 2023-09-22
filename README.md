@@ -42,5 +42,6 @@ ros2 launch path_planner_server pathplanner.launch.py
 
 ## Send goals to the robot through Nav2 API
 
+<p>Send goals programmatically through Nav2 API in Python. Command the robot to move to shelf's front,lift it and move to unload position.</p>
 
-
+[![nav2_api](https://res.cloudinary.com/marcomontalbano/image/upload/v1695354026/video_to_markdown/images/google-drive--16bGo5mn0b_4uZYM3bCuhQiP-ljHYjJbE-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/16bGo5mn0b_4uZYM3bCuhQiP-ljHYjJbE/view?usp=sharing "nav2_api")
