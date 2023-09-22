@@ -15,7 +15,7 @@
 ros2 launch map_server map_server.launch.py map_file:=warehouse_map_sim.yaml
 
 
-<img alt="simulation map" src=""/>
+<img alt="simulation map" src="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Shot%202023-09-21%20at%2010.47.23%20PM.png"/>
 ## Localization
 
 ## Navigation
