@@ -22,7 +22,8 @@ ros2 launch map_server map_server.launch.py map_file:=warehouse_map_sim.yaml
 ros2 launch localization_server localization.launch.py map_file:=warehouse_map_sim.yaml
 
 
-<a href="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Recording%202023-09-21%20at%2011.02.11%20PM.mov)" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+<a href="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Recording%202023-09-21%20at%2011.02.11%20PM.mov" title="Link Title"><img src="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Shot%202023-09-21%20at%2010.47.23%20PM.png" alt="Alternate Text" /></a>
+
 <p>Move the robot to see the particle clouds are converging to the robot location.</p>
 ## Navigation
 
