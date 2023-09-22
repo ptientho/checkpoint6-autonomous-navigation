@@ -22,9 +22,10 @@ ros2 launch map_server map_server.launch.py map_file:=warehouse_map_sim.yaml
 ros2 launch localization_server localization.launch.py map_file:=warehouse_map_sim.yaml
 
 
-<a href="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Recording%202023-09-21%20at%2011.02.11%20PM.mov" title="Link Title"><img src="https://github.com/ptientho/checkpoint6-autonomous-navigation/blob/main/Screen%20Shot%202023-09-21%20at%2010.47.23%20PM.png" alt="Alternate Text" /></a>
+[![amcl](https://res.cloudinary.com/marcomontalbano/image/upload/v1695352298/video_to_markdown/images/google-drive--19I_8vkm8f01p3NrhUAf2V0YU56Jd_aE3-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/19I_8vkm8f01p3NrhUAf2V0YU56Jd_aE3/view?usp=sharing "amcl")
 
 <p>Move the robot to see the particle clouds are converging to the robot location.</p>
+
 ## Navigation
 
 ## Send goals to the robot through Nav2 API
